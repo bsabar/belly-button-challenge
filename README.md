@@ -6,4 +6,10 @@ This project is focused on building an interactive dashboard exploring the Belly
 ## Tools Used
 - `d3.js`
 - `plot.ly`
-- `HTML
+- `HTML`
+
+## Requirements Delivered
+- Created a bar chart to update a new sample selected
+- Created a bar chart that uses Top 10 sample values as values
+- Chart uses `otu_ids` as the labels 
+- Chart uses `otu_labels` as the tooltip
