@@ -27,4 +27,7 @@ This project is focused on building an interactive dashboard exploring the Belly
 ### Metadata and Deployment
 - Metadata initializes without error
 - Metadata updates when a new sample is selected
-- App Successfully Deployed to Github Pages 
+- App Successfully Deployed to Github Pages
+
+### References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
