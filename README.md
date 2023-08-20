@@ -3,7 +3,7 @@
 ## Background
 This project is focused on building an interactive dashboard exploring the Belly Button Biodiversity Dataset. This dataset catalogs the microbes that colonize human navels. It reveals that a small handful of microbial species(also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-This homework is to practice what we learned on using `d3.j`, `HTML`, and `plot.ly` along with using a `.json` file. 
+This homework is to practice what we learned about using tools like `d3.js`, `HTML`, `plot.ly`, and using a `.json` file to build and create a dashboard interactively. 
 
 ## Tools Used
 - `d3.js`
