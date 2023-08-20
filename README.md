@@ -23,3 +23,8 @@ This project is focused on building an interactive dashboard exploring the Belly
 - Chart uses `sample_values` for the y values
 - Chart uses `sample_values` for the marker size
 - Chart uses `otu_labels` for text values
+
+### Metadata and Deployment
+- Metadata initializes without error
+- Metadata updates when a new sample is selected
+- App Successfully Deployed to Github Pages 
